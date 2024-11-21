@@ -1,2 +1,7 @@
 # png-to-svg
-image file to svg vector icon
+## 简介
+将png转化成矢量图标，再返回png文件
+## 用法
+1. 将图标添加到该程序同一目录中
+2. 运行程序
+3. 生成图片
